@@ -6,11 +6,15 @@
   "packageManager": "pnpm@10.26.2",
   "pnpm": {
     "overrides": {
+      "@vue/server-renderer": "3.5.42",
       "esbuild": "0.28.1",
-      "postcss": "8.5.15",
+      "nanoid": "3.3.18",
+      "postcss": "8.5.23",
       "preact": "10.29.2",
       "rollup": "4.60.4",
-      "vite": "7.3.5"
+      "source-map-js": "1.2.2",
+      "vite": "7.3.5",
+      "vue": "3.5.42"
     }
   },
   "scripts": {
